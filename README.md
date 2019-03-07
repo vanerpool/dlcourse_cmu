@@ -1,0 +1,1 @@
+# Репозиторий с материалами курса http://deeplearning.cs.cmu.edu/
